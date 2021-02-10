@@ -1,0 +1,46 @@
+ON 			7e0404f00001ff00ef
+OFF 			7e0404000000ff00ef
+RGB(255,18,0)		7e070503ff120010ef
+RGB(32,255,0)		7e07050320ff0010ef
+RGB(43,0,255)		7e0705032b00ff10ef
+HELLIGKEIT(ca 60%)	7e04014101ffff00ef
+HELLIGKEIT(ca 5%)	7e04010401ffff00ef
+HELLIGKEIT(100%)	7e04016401ffff00ef
+TEMPERATUR(kalt)	7e060502055fff10ef
+TEMPERATUR(mittel)	7e060502451fff10ef
+TEMPERATUR(warm)	7e0605026400ff10ef
+BW(white)		7e0505015fffff10ef
+BW(mittel)		7e0505012fffff10ef
+BW(black)		7e05050100ffff10ef
+EFFECT(static red)	7e05038003ffff00ef
+EFFECT(static blue)	7e05038103ffff00ef
+EFFECT(static green)	7e05038203ffff00ef
+EFFECT(static cyan)	7e05038303ffff00ef
+EFFECT(static yellow)	7e05038403ffff00ef
+EFFECT(static purple)	7e05038503ffff00ef
+EFFECT(static white)	7e05038603ffff00ef
+EFFECT(3C Jump)		7e05038703ffff00ef
+EFFECT(7C Jump)		7e05038803ffff00ef
+EFFECT(3C fade)		7e05038903ffff00ef
+EFFECT(7C fade)		7e05038a03ffff00ef
+EFFECT(red pulse)	7e05038b03ffff00ef
+EFFECT(green pulse)	7e05038c03ffff00ef
+EFFECT(blue pulse)	7e05038d03ffff00ef
+EFFECT(yellow pulse)	7e05038e03ffff00ef
+EFFECT(cyan pulse)	7e05038f03ffff00ef
+EFFECT(purple pulse)	7e05039003ffff00ef
+EFFECT(white pulse)	7e05039103ffff00ef
+EFFECT(red-green fade)	7e05039203ffff00ef
+EFFECT(red-blue fade)	7e05039303ffff00ef
+EFFECT(green-blue fade)	7e05039403ffff00ef
+EFFECT(7C flash)	7e05039503ffff00ef
+EFFECT(red flash)	7e05039603ffff00ef
+EFFECT(green flash)	7e05039703ffff00ef
+EFFECT(blue flash)	7e05039803ffff00ef
+EFFECT(yellow flash)	7e05039903ffff00ef
+EFFECT(cyan flash)	7e05039a03ffff00ef
+EFFECT(pruple flash)	7e05039b03ffff00ef
+EFFECT(white flash)	7e05039c03ffff00ef
+EFFECT_SPEED(51)	7e040233ffffff00ef
+EFFECT_SPEED(0)		7e040200ffffff00ef
+EFFECT_SPEED(100)	7e040264ffffff00ef
